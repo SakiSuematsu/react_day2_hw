@@ -5,6 +5,7 @@
 
 ## 工夫したところ
 - 使ったことがなかったTailwindCSS+OpenWeatherAPIに挑戦してみたところ
+- APIキーを.envに記載して、.gitignoreしたこと
 
 ## 苦戦したところ
 - TailwindCSSが最初から最後まで効かず、CSS死んでる系の仕上がりです
